@@ -19,5 +19,6 @@
             <input type="submit" value="保存"/>
         </form>
         <div class="back">[<a href="/posts">back</a>]</div>
+
     </body>
 </html>
